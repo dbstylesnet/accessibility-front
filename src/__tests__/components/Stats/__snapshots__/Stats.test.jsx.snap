@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Stats component correctly 1`] = `
+<div
+  aria-label="Uploads and lines saved - statistics"
+  data-testid="statsContainer"
+>
+  <div
+    className="sc-bdfBwQ fDqpIs"
+  >
+    <div
+      className="sc-gsTCUz leBjBn"
+    >
+      <div>
+        50
+         % 
+      </div>
+      <div>
+        Upload Success
+      </div>
+    </div>
+    <div
+      className="sc-gsTCUz leBjBn"
+    >
+      <div>
+        75
+         % 
+      </div>
+      <div>
+        Lines Saved
+      </div>
+    </div>
+  </div>
+</div>
+`;
