@@ -5,7 +5,7 @@ function App() {
   const accountOverviewStub = {
     supportContact: {
       name: 'John Smith',
-      email: 'john.smith@feefo.com'
+      email: 'john.smith@support.com'
     },
     salesOverview: {
       uploads: 8,
