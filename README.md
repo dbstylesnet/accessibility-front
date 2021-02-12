@@ -5,6 +5,9 @@
 - a11y considered and relevant ARIA attributes added
 - Styled-components
 
+![alt text](https://github.com/dbstylesnet/accessibility-front/blob/master/screenshot.png)
+
+
 ## Setup
 1. Run `npm install` to install required dependencies
 2. Run `npm run start` to start a local development server
