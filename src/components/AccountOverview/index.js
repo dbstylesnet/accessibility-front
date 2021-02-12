@@ -8,7 +8,7 @@ export const AccountOverview = ({
     data = {
         supportContact: {
             name: 'Name',
-            email: 'name@feefo.com'
+            email: 'name@support.com'
         },
         salesOverview: {
             uploads: 0,
