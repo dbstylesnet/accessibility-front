@@ -5,7 +5,7 @@
 - a11y considered and relevant ARIA attributes added
 - Styled-components
 
-![alt text](https://github.com/dbstylesnet/accessibility-front/blob/master/screenshot.png)
+![Project screenshot](https://github.com/dbstylesnet/accessibility-front/blob/master/screenshot.png)
 
 
 ## Setup
