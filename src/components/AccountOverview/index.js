@@ -25,7 +25,7 @@ export const AccountOverview = ({
         <AccountHeader>
             <h3>Account Overview</h3>
             <div className="support-contact">
-                <p>YOUR FEEFO SUPPORT CONTACT</p>
+                <p>YOUR SUPPORT CONTACT</p>
                 <div className='support-wrapper'>
                     <div className='support-letter'>S</div>
                     <SupportContact supportContact={supportContact} />
